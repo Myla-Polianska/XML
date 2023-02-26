@@ -1,1 +1,21 @@
-
+<bugReport>
+  <date >Date: </date>
+<id >ID : </id>
+<reportedBy> Reported by: </reportedBy>
+<softwareName> Sofware Name: </softwareName> 
+<softwareVersion> Software version     and build:version </softwareVersion>
+<environment> Environment </environment>
+<language> Language : </language>
+<hardware> Hardware configuration : </hardware> 
+<title> Title: </title>
+<description> Problem Description: </description>
+<preCondition> Pre-condition: </preCondition>
+<step> Step to reproduce: </step>
+<expResult> Expected result: <expResult> 
+<actResult> Actual result: </actResult>
+<reproducibility> Bug reproducibility: </reproducibility>
+<attachment> Attachments: <attachment>
+<assigned> Assigned to </assigned> 
+<priority> Priority: </priority>
+<severity> Severity: </severity>
+  </bugReport>
